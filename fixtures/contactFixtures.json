@@ -1,0 +1,17 @@
+{
+    "contact":{
+        "firstName":"Lumana",
+        "lastName":"Tuladhar",
+        "dateOfBirth":"2004/04/20",
+        "email":"lumanatul@gmail.com",
+        "phone":"9861059434",
+        "address":"Indrachowk",
+        "city":"Kathmandu",
+        "state":"State",
+        "postal":"123",
+        "country":"Nepal"
+    },
+    "contactEdit":{
+        "firstName":"Lumana"
+    }
+}
