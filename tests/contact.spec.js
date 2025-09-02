@@ -23,7 +23,7 @@ test.describe('Contact testcases', () =>{
         await deleteEntity(accessToken,'/contacts/$(id)',{request});
         await validateEntity(accessToken,'/contacts/$(id)','484', {request});
     })
-    test.only('Contact Edit test', async ({ page, request}) => {
+    test('Contact Edit test', async ({ page, request}) => {
         const Data = {
             "firstName": "Lumana",
             "lastName": "Tuladhar",
